@@ -1,0 +1,10 @@
+{
+    "editor.fontSize": 14,
+    "prettier.embeddedLanguageFormatting": "off",
+    "prettier.enableDebugLogs": true,
+    "prettier.endOfLine": "auto",
+    "prettier.jsxBracketSameLine": true,
+    "prettier.jsxSingleQuote": true,
+    "prettier.requireConfig": true,
+    "prettier.resolveGlobalModules": true
+}
